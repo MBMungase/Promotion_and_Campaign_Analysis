@@ -1,0 +1,5 @@
+This file contains all the meta information regarding the columns described in the CSV files. We have provided 4 CSV files:
+1. dim_campaigns
+2. dim_products
+3. dim_stores
+4. fact_events
