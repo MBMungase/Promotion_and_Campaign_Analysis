@@ -7,7 +7,7 @@ The insights generated can help the Operations, Sales, and Marketing teams make 
 
 The retail company runs multiple promotional campaigns such as Diwali and Sankranti across different cities, stores, products, and promotion types. The operations and sales teams want to understand how these promotional campaigns are affecting sales volume and revenue and identify areas where promotional strategies can be improved.
 
-# Task List
+**Task List**
 
 Task 1: Data Cleaning – Remove Duplicate Records
 Task 2: Analyze Store Distribution by City
@@ -22,7 +22,7 @@ Task 10: Identify Poor-Performing Promotion Types
 Task 11: Generate Business Insights
 
 
-### Overall Learning
+**Overall Learning**
 
 Through this project, I gained practical experience in using **Pandas for real-world business data analysis**. I learned how to:
 
